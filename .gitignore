@@ -1,0 +1,3 @@
+node_modules
+/dist
+/Webpack-vue/node_modules
